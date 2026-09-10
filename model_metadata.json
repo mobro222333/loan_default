@@ -1,0 +1,13 @@
+{
+    "best_threshold": 0.31,
+    "cost_false_negative": 9,
+    "cost_false_positive": 1,
+    "roc_auc": 0.7811934088296706,
+    "best_params": {
+        "learning_rate": 0.4,
+        "max_depth": 6,
+        "n_estimators": 500,
+        "subsample": 0.9
+    },
+    "scale_pos_weight": 16.046592894583576
+}
